@@ -1,4 +1,4 @@
-![logo](https://github.com/marahim34/marahim34/blob/main/github%20banner_.gif)
+
 
 <h1 align="center">Hi 👋, I'm Md Abdur Rahim</h1>
 <h3 align="center">A passionate full stack developer</h3>
