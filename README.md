@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Md Abdur Rahim</h1>
-<!-- <h3 align="center">A passionate full stack developer</h3> -->
+<!-- <h3 align="center">A passionate software engineering student with a love for coding and problem-solving.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marahim34&label=Profile%20views&color=0e75b6&style=flat" alt="marahim34" /> </p>
 
