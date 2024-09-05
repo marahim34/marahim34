@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marahim34&label=Profile%20views&color=0e75b6&style=flat" alt="marahim34" /> </p>
 
-- 🌱 I’m currently learning **C, C++**
+- 🌱 A passionate software engineering student with a love for coding and problem-solving.
 
-- 💬 Ask me about **c, c++**, Data Structure and Algorithm, ReactJs, ExpressJS, NodeJs, MongoDB**
+- 💬 Ask me about **c, c++, Data Structure and Algorithm, ReactJs, ExpressJS, NodeJs, MongoDB**
 
 - 📫 How to reach me **marahim34@gmail.com**
 
