@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **C, C++**
 
-- 💬 Ask me about **c, c++**
-  💬              **Data Structure and Algorithm**
-  💬              **ReactJs, ExpressJS, NodeJs, MongoDB**
+- 💬 Ask me about **c, c++**, Data Structure and Algorithm, ReactJs, ExpressJS, NodeJs, MongoDB**
 
 - 📫 How to reach me **marahim34@gmail.com**
 
