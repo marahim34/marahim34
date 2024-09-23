@@ -64,11 +64,8 @@
 </p>
 
 <h3 align="left">WakaTime Stats:</h3>
-<p align="center">
-  <img src="https://wakatime.com/share/@109f72e8-8765-49ba-8f1e-4961b522e059/a6b796b7-9981-4a91-bfde-0b8a5e6e3068.svg" alt="WakaTime Stats" />
-</p>
 
-<h3 align="left">My Activity Graph:</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=marahim34&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
+<div align="center" style="background-color: #2d2d2d; padding: 20px; border-radius: 15px; display: inline-block;">
+  <img src="https://wakatime.com/share/@109f72e8-8765-49ba-8f1e-4961b522e059/9a1c3933-5d88-4011-ae07-1dd666a245de.svg" alt="WakaTime Stats" style="width: 60%; height: 200px; border-radius: 15px;"/>
+</div>
+
