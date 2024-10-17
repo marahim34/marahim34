@@ -3,9 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marahim34&label=Profile%20views&color=0e75b6&style=flat" alt="marahim34" /> </p>
 
 - 🌱 A passionate software engineering student with a love for coding and problem-solving.
-
 - 💬 Ask me about **C, C++, Data Structure and Algorithm, ReactJs, ExpressJS, NodeJs, MongoDB**
-
 - 📫 How to reach me **marahim34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -48,25 +46,27 @@
   </a> 
 </p>
 
-
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marahim34&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marahim34&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" style="width: 400px; height: 200px; border-radius: 15px;"/>
 </p>
 
 <h3 align="left">Streak Stats:</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=marahim34&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=marahim34&theme=dark&hide_border=true" alt="GitHub Streak" style="width: 400px; height: 200px; border-radius: 15px;"/>
 </p>
 
 <h3 align="left">Top Languages:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marahim34&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marahim34&layout=compact&theme=dark&hide_border=true" alt="Top Languages" style="width: 400px; height: 200px; border-radius: 15px;"/>
 </p>
 
 <h3 align="left">WakaTime Stats:</h3>
-
 <div align="center" style="background-color: #2d2d2d; padding: 20px; border-radius: 15px; display: inline-block;">
-  <img src="https://wakatime.com/share/@109f72e8-8765-49ba-8f1e-4961b522e059/9a1c3933-5d88-4011-ae07-1dd666a245de.svg" alt="WakaTime Stats" style="width: 60%; height: 200px; border-radius: 15px;"/>
+  <img src="https://wakatime.com/share/@109f72e8-8765-49ba-8f1e-4961b522e059/9a1c3933-5d88-4011-ae07-1dd666a245de.svg" alt="WakaTime Stats" style="width: 400px; height: 200px; border-radius: 15px;"/>
 </div>
 
+<h3 align="left">GitHub Activity Overview:</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marahim34&theme=react-dark&area=true&hide_border=true" alt="Code Reviews" style="width: 400px; height: 200px; border-radius: 15px;"/>
+</div>
