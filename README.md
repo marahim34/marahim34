@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marahim34&label=Profile%20views&color=0e75b6&style=flat" alt="marahim34" /> </p>
 
 - 🌱 A passionate software engineering student with a love for coding and problem-solving.
-- 💬 Ask me about **C, C++, Data Structure and Algorithm, ReactJs, ExpressJS, NodeJs, MongoDB**
+- 💬 Ask me about **C, C++, Java, Data Structure and Algorithm, ReactJs, ExpressJS, NodeJs, MongoDB**
 - 📫 How to reach me **marahim34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
