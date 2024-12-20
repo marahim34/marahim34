@@ -89,7 +89,7 @@
 
 <h3 align="left">Streak Stats:</h3>
 <p align="center">
-  <img src="DIRECT_LINK_TO_IMAGE" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
+  <img src="https://streak-stats.demolab.com/?user=marahim34&theme=dark&hide_border=true&cache_bust=1" alt="GitHub Streak" " />
 </p>
 
 <h3 align="left">Top Languages:</h3>
