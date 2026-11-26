@@ -33,7 +33,7 @@ Software engineering student at **TAMK** (Tampere University of Applied Sciences
     <td colspan="2" valign="top">
       <h3><a href="https://github.com/marahim34/eQuorum">eQuorum</a> · board governance platform for banks</h3>
       <a href="https://github.com/marahim34/eQuorum"><img src="assets/equorum.jpg" alt="eQuorum dashboard" width="100%" /></a><br/>
-      Runs the full board and committee lifecycle on the bank's own servers: notices, agendas, quorum and approval-limit checks, decisions, a resolution register and Word minutes. Parses department memos (credit, HR, audit, IT…) and drafts minutes with a <b>local LLM</b>, so no data leaves the bank. Role-based access, audit log with before/after records, Alembic migrations, CI.<br/><br/>
+      Runs the full board and committee lifecycle on the bank's own servers: notices, agendas, quorum and approval-limit checks, decisions, a resolution register and Word minutes. Parses department memos (credit, HR, audit, IT…) and drafts minutes with a <b>local LLM</b>, so no data leaves the bank. Role-based access, audit log with before/after records, <b>868 automated tests</b>, CI.<br/><br/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -89,7 +89,7 @@ Software engineering student at **TAMK** (Tampere University of Applied Sciences
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [**eQuorum API**](https://github.com/marahim34/eQuorum) | 20 API routers, role-based access, workflow state machines, document parsing pipeline, background scheduler, audit trail | FastAPI · SQLAlchemy · Alembic · PostgreSQL |
+| [**eQuorum API**](https://github.com/marahim34/eQuorum) | 20 API routers, role-based access, workflow state machines, document parsing pipeline, background scheduler, audit trail, 868 tests | FastAPI · SQLAlchemy · Alembic · PostgreSQL |
 | [**Bookly**](https://github.com/marahim34/Bookly) | Bookkeeping REST API: invoices, income, expenses, balance sheet, monthly reports exported to PDF and Excel | Express 5 · Sequelize · PostgreSQL · JWT |
 | [**Task Manager API**](https://github.com/marahim34/task-manager) | JWT auth with role-based access control, validation, admin endpoints | Express · MongoDB · Mongoose · Joi |
 | [**Movie API**](https://github.com/marahim34/movie-api) | Modular CRUD API with JWT, Joi validation and query filtering | Express · MongoDB · JWT |
