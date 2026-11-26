@@ -30,23 +30,17 @@ Software engineering student at **TAMK** (Tampere University of Applied Sciences
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/marahim34/eQuorum">eQuorum</a></h3>
-      On-premise board governance platform for banks: meetings, agendas, decisions, minutes and a resolution register. Parses department memos and drafts minutes with a local LLM.<br/><br/>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/marahim34/eQuorum">eQuorum</a> · board governance platform for banks</h3>
+      <a href="https://github.com/marahim34/eQuorum"><img src="assets/equorum.jpg" alt="eQuorum meeting workspace" width="100%" /></a><br/>
+      Runs the full board and committee lifecycle on the bank's own servers: notices, agendas, quorum and approval-limit checks, decisions, a resolution register and Word minutes. Parses department memos (credit, HR, audit, IT…) and drafts minutes with a <b>local LLM</b>, so no data leaves the bank. Role-based access, audit log with before/after records, Alembic migrations, CI.<br/><br/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/marahim34/Bookly">Bookly</a></h3>
-      REST API for small-business bookkeeping: customers, invoices, income, expenses and a balance sheet, with monthly reports exported to PDF and Excel.<br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" />
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -91,6 +85,27 @@ Software engineering student at **TAMK** (Tampere University of Applied Sciences
 
 ---
 
+## Backend APIs
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [**eQuorum API**](https://github.com/marahim34/eQuorum) | 20 API routers, role-based access, workflow state machines, document parsing pipeline, background scheduler, audit trail | FastAPI · SQLAlchemy · Alembic · PostgreSQL |
+| [**Bookly**](https://github.com/marahim34/Bookly) | Bookkeeping REST API: invoices, income, expenses, balance sheet, monthly reports exported to PDF and Excel | Express 5 · Sequelize · PostgreSQL · JWT |
+| [**Task Manager API**](https://github.com/marahim34/task-manager) | JWT auth with role-based access control, validation, admin endpoints | Express · MongoDB · Mongoose · Joi |
+| [**Movie API**](https://github.com/marahim34/movie-api) | Modular CRUD API with JWT, Joi validation and query filtering | Express · MongoDB · JWT |
+
+---
+
+## Linux, servers &amp; embedded
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Server Technologies**](https://github.com/marahim34/server-technologies) | Hardened Ubuntu server on CSC cPouta: Apache + HTTPS, reverse proxy, Node.js/PM2, Docker, NFS and Ansible, documented day by day. Includes a real Linux (Buildroot, kernel 6.8) running in the browser with 12 graded practice sets. | Linux · Apache · Docker · Ansible · v86 |
+| [**Secure Pi Thesis Lab**](https://github.com/marahim34/embedded-project) | Study lab for post-quantum integrity on embedded Linux: Raspberry Pi Zero 2 W with TPM 2.0, Yocto read-only image, IMA/EVM with ML-DSA, Keylime attestation, signed A/B updates. Interactive simulations for PCR extend, IMA appraisal and TLS handshakes. | Embedded Linux · Yocto · TPM 2.0 · PQC |
+| [**Linux systems programming**](https://github.com/marahim34/linux-systems-and-kernel-mastery/tree/main/code_examples) | C programs and kernel modules: epoll TCP server, thread pool, POSIX shared memory, Unix sockets, mmap indexer; char device, procfs, workqueue and RCU modules. | C · POSIX · Linux kernel modules · Bash |
+
+---
+
 ## Tech stack
 
 <p align="center">
@@ -111,7 +126,8 @@ Software engineering student at **TAMK** (Tampere University of Applied Sciences
 | **Frontend & mobile** | React, TypeScript, Vite, Flutter, Riverpod |
 | **Data** | PostgreSQL, SQLite (Drift), MongoDB |
 | **AI** | Ollama (local LLMs), LLM-drafted documents, memo parsing |
-| **DevOps** | Docker Compose, GitHub Actions, Linux servers |
+| **DevOps & Linux** | Docker Compose, GitHub Actions, Ansible, Apache, Linux servers |
+| **Systems & embedded** | C, POSIX, Linux kernel modules, Raspberry Pi, Yocto, TPM 2.0 |
 
 ---
 
