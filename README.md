@@ -32,7 +32,7 @@ Software engineering student at **TAMK** (Tampere University of Applied Sciences
   <tr>
     <td colspan="2" valign="top">
       <h3><a href="https://github.com/marahim34/eQuorum">eQuorum</a> · board governance platform for banks</h3>
-      <a href="https://github.com/marahim34/eQuorum"><img src="assets/equorum.jpg" alt="eQuorum meeting workspace" width="100%" /></a><br/>
+      <a href="https://github.com/marahim34/eQuorum"><img src="assets/equorum.jpg" alt="eQuorum dashboard" width="100%" /></a><br/>
       Runs the full board and committee lifecycle on the bank's own servers: notices, agendas, quorum and approval-limit checks, decisions, a resolution register and Word minutes. Parses department memos (credit, HR, audit, IT…) and drafts minutes with a <b>local LLM</b>, so no data leaves the bank. Role-based access, audit log with before/after records, Alembic migrations, CI.<br/><br/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
