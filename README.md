@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Backend%3A+FastAPI+%C2%B7+Node.js+%C2%B7+PostgreSQL;Frontend+%26+mobile%3A+React+%C2%B7+TypeScript+%C2%B7+Flutter;AI%3A+Claude+API+%C2%B7+local+LLMs+with+Ollama;Ops%3A+Docker+%C2%B7+GitHub+Actions+%C2%B7+Linux" alt="Backend, frontend, mobile, AI and ops" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Backend%3A+FastAPI+%C2%B7+Node.js+%C2%B7+PostgreSQL;Frontend+%26+mobile%3A+React+%C2%B7+TypeScript+%C2%B7+Flutter;AI%3A+local+LLMs+with+Ollama+%C2%B7+document+parsing;Ops%3A+Docker+%C2%B7+GitHub+Actions+%C2%B7+Linux" alt="Backend, frontend, mobile, AI and ops" />
 </p>
 
 <p align="center">
@@ -40,13 +40,13 @@ Software engineering student at **TAMK** (Tampere University of Applied Sciences
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/marahim34/my-assistant">My Assistant</a></h3>
-      Self-hosted AI assistant grounded in my CV and notes: interview practice, job-fit analysis and voice mode. One-command deploy with automatic HTTPS, backups and CI/CD.<br/><br/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      <h3><a href="https://github.com/marahim34/Bookly">Bookly</a></h3>
+      REST API for small-business bookkeeping: customers, invoices, income, expenses and a balance sheet, with monthly reports exported to PDF and Excel.<br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -108,8 +108,8 @@ Software engineering student at **TAMK** (Tampere University of Applied Sciences
 | **Backend** | FastAPI, Node.js / Express, SQLAlchemy, Alembic, Sequelize, REST, JWT |
 | **Frontend & mobile** | React, TypeScript, Vite, Flutter, Riverpod |
 | **Data** | PostgreSQL, SQLite (Drift), MongoDB |
-| **AI** | Claude API, Ollama (local LLMs), prompt caching, retrieval over documents |
-| **DevOps** | Docker Compose, GitHub Actions, Caddy, Linux servers |
+| **AI** | Ollama (local LLMs), LLM-drafted documents, memo parsing |
+| **DevOps** | Docker Compose, GitHub Actions, Linux servers |
 
 ---
 
