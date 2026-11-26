@@ -52,6 +52,7 @@ Software engineering student at **TAMK** (Tampere University of Applied Sciences
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/marahim34/Kestrel">Kestrel</a></h3>
+      <a href="https://github.com/marahim34/Kestrel"><img src="assets/kestrel.jpg" alt="Kestrel Books dashboard" width="100%" /></a><br/>
       Business account website and bookkeeping app for Finnish freelancers. Every report (VAT, P&amp;L, balance sheet, cash flow) comes from one tested double-entry ledger.<br/><br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -59,6 +60,7 @@ Software engineering student at **TAMK** (Tampere University of Applied Sciences
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/marahim34/wspb-26">Expense Tracker</a></h3>
+      <a href="https://github.com/marahim34/wspb-26"><img src="assets/expense-tracker.jpg" alt="Expense Tracker" width="100%" /></a><br/>
       Production-style web app with CI, health checks, graceful shutdown, backup and restore, and an operations runbook.<br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -140,12 +142,24 @@ Software engineering student at **TAMK** (Tampere University of Applied Sciences
   </picture>
 </p>
 
+<h3 align="center">Weekly coding time</h3>
+<p align="center">
+  <img src="https://wakatime.com/share/@109f72e8-8765-49ba-8f1e-4961b522e059/9a1c3933-5d88-4011-ae07-1dd666a245de.svg" alt="WakaTime: coding time by language" width="520" />
+</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marahim34/marahim34/output/snake-dark.svg" />
     <img width="100%" src="https://raw.githubusercontent.com/marahim34/marahim34/output/snake-light.svg" alt="Contribution graph animation" />
   </picture>
 </p>
+
+---
+
+## Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0b3d91,100:0d1117&height=110&section=footer" width="100%" alt="" />
