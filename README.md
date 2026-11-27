@@ -21,6 +21,7 @@
 Software engineering student at **TAMK** (Tampere University of Applied Sciences). I build full-stack and mobile products for real business problems: bookkeeping, board governance, mileage logs and agent ledgers.
 
 - **Building:** an on-premise board governance platform for banks, with LLM-drafted minutes that never leave the bank's servers
+- **Now learning in depth:** Linux systems programming in C and modern C++, one project at a time: an HTTP server in every Linux I/O model, a Unix shell with job control, a memory allocator, a container runtime and a Redis-compatible key-value store
 - **Focus:** clean APIs, tested business logic (double-entry ledgers, VAT, approval rules) and production-ready deployment
 - **Looking for:** a software developer internship or junior role in Finland
 
@@ -102,6 +103,7 @@ Software engineering student at **TAMK** (Tampere University of Applied Sciences
 |---|---|---|
 | [**Server Technologies**](https://github.com/marahim34/server-technologies) | Hardened Ubuntu server on CSC cPouta: Apache + HTTPS, reverse proxy, Node.js/PM2, Docker, NFS and Ansible, documented day by day. Includes a real Linux (Buildroot, kernel 6.8) running in the browser with 12 graded practice sets. | Linux · Apache · Docker · Ansible · v86 |
 | [**Secure Pi Thesis Lab**](https://github.com/marahim34/embedded-project) | Study lab for post-quantum integrity on embedded Linux: Raspberry Pi Zero 2 W with TPM 2.0, Yocto read-only image, IMA/EVM with ML-DSA, Keylime attestation, signed A/B updates. Interactive simulations for PCR extend, IMA appraisal and TLS handshakes. | Embedded Linux · Yocto · TPM 2.0 · PQC |
+| [**epoll-http**](https://github.com/marahim34/epoll-http) *(in progress)* | HTTP/1.1 server in C built in every Linux I/O model (blocking, threads, poll, epoll, io_uring) and benchmarked against nginx. Tested with sanitizers in CI; milestone notes explain each bug found, such as lost error responses from a TCP RST. | C · sockets · epoll · io_uring |
 | [**Linux systems programming**](https://github.com/marahim34/linux-systems-and-kernel-mastery/tree/main/code_examples) | C programs and kernel modules: epoll TCP server, thread pool, POSIX shared memory, Unix sockets, mmap indexer; char device, procfs, workqueue and RCU modules. | C · POSIX · Linux kernel modules · Bash |
 
 ---
