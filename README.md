@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d91,100:1f6feb&height=190&section=header&text=Md%20Abdur%20Rahim&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20%26%20Mobile%20Developer%20%C2%B7%20Tampere%2C%20Finland&descSize=18&descAlignY=58&animation=fadeIn" alt="Md Abdur Rahim — Full-stack & Mobile Developer" width="100%" />
+  <img src="assets/header.svg" alt="Md Abdur Rahim — Full-stack & Systems Developer · Tampere, Finland" width="100%" />
 </p>
 
 <p align="center">
@@ -180,5 +180,5 @@ Software engineering student at **TAMK** (Tampere University of Applied Sciences
 <!--END_SECTION:activity-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0b3d91,100:0d1117&height=110&section=footer" width="100%" alt="" />
+  <img src="assets/footer.svg" width="100%" alt="" />
 </p>

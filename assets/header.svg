@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Md Abdur Rahim, Full-stack and Systems Developer, Tampere, Finland">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.5" stop-color="#0b3d91"/>
+      <stop offset="1" stop-color="#1f6feb"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M0 0H1200V150C1100 185 980 190 860 168C720 142 610 118 470 140C330 162 200 192 0 160Z"/>
+  <path fill="url(#g)" opacity="0.35" d="M0 0H1200V170C1080 196 950 196 830 180C690 160 590 140 450 160C320 178 180 200 0 182Z"/>
+  <text x="600" y="86" text-anchor="middle" fill="#ffffff" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="0.5">Md Abdur Rahim</text>
+  <text x="600" y="126" text-anchor="middle" fill="#c9d9ff" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20">Full-stack &amp; Systems Developer · Tampere, Finland</text>
+</svg>
